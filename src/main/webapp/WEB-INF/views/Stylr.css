@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+#searchBorder {
+	margin:10px;	
+	padding: 1rem;
+      background-color: #CAD5E2;
+      color: #fff;
+      text-align: center;
+      
+}
+
+
+#submit{
+	margin-left: 2px;
+}
+#container{
+	margin-top: 4px;
+	padding: 4px;
+}
+#Canclebtn{
+	margin-left: 50%;
+}
+
+
+
+
+	
