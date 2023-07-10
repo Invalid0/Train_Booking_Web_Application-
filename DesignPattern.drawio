@@ -1,9 +1,219 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T06:34:46.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="I59zqCRNuyLPTjtIFEOk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T13:22:19.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FJm_b32QeRwC2LbAgjEx" version="21.5.2" type="github">
   <diagram name="Page-1" id="05lEyHZnRJ2rUjq3MMCW">
-    <mxGraphModel>
+    <mxGraphModel dx="4039" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-1" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-2" value="Startegy Pattern" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-3" value="Class Div" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-4" value="Class Add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-5" value="Class Sub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="I5HfIbf65Nx03JaSf2Iz-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="160" as="sourcePoint" />
+            <mxPoint x="340" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-1" target="I5HfIbf65Nx03JaSf2Iz-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="170" as="sourcePoint" />
+            <mxPoint x="410" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="I5HfIbf65Nx03JaSf2Iz-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="175" as="sourcePoint" />
+            <mxPoint x="400" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-10" value="Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-11" value="Class" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="710" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-14" target="I5HfIbf65Nx03JaSf2Iz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-14" value="Site&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="735" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-17" target="I5HfIbf65Nx03JaSf2Iz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-17" value="Company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="710" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-20" value="1.Adding Data Sucessfully" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="515" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-24" value="1.Adding Data Sucessfully" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-26" target="I5HfIbf65Nx03JaSf2Iz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-26" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="710" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-27" value="1.Adding Data Sucessfully(TestingDep)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-29" target="I5HfIbf65Nx03JaSf2Iz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-29" target="I5HfIbf65Nx03JaSf2Iz-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-29" value="Role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="890" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-29" target="I5HfIbf65Nx03JaSf2Iz-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="930" as="sourcePoint" />
+            <mxPoint x="370" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="762" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-33" value="1. Department * -&amp;gt;&amp;nbsp; relationship on Department (W)&lt;br&gt;2. Role *-&amp;gt; User Manual Enter (W)&lt;br&gt;3. Role Code * -&amp;gt;&amp;nbsp; User Manual Enter (W)&lt;br&gt;&lt;br&gt;verification Applicable&lt;br&gt;(IF USER SELECT BELOW OF THIS BASED ON THE ROLE ID FETCH IT WILL FETCH ))&lt;br&gt;1. Background -&amp;gt;&lt;br&gt;2. Police -&amp;gt;&lt;br&gt;3. Employment -&amp;gt;&amp;nbsp;&lt;br&gt;4.Email ID -&amp;gt; (NW)&lt;br&gt;I&#39;M SELECT ALL HEARE.&lt;br&gt;&lt;br&gt;Note: EmailID Parameter is missing(NW)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1080" width="590" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-35" value="W -&amp;gt; Working as Expected&lt;br&gt;NW -&amp;gt; Not Working as Expected&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-36" value="EmailID Pramater Not Add" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="890" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-38" value="Issue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="898" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-40" target="I5HfIbf65Nx03JaSf2Iz-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-40" value="Salary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="890" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-41" value="1.SiteName* -&amp;gt; relationShip on Site(W)&lt;br&gt;2. CompanyName* -&amp;gt; relationShip on Company(W)&lt;br&gt;3. Department* -&amp;gt; relationShip on Department(W)&lt;br&gt;4. Role* -&amp;gt; dataPicker Issue(NW)&lt;br&gt;5. Basic Salary* -&amp;gt; User Enter Manually(W)&lt;br&gt;6. ESI(Y,N)* -&amp;gt;&amp;nbsp; User select Yes or No(W)&lt;br&gt;7 GMC(Y,N)* -&amp;gt; User select Yes or No(W)&lt;br&gt;&lt;br&gt;Note: Submit Not working because of required field Role dataPicker" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1070" width="660" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="840" as="sourcePoint" />
+            <mxPoint x="260" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="840" />
+              <mxPoint x="260" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="840" as="sourcePoint" />
+            <mxPoint x="480" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="I5HfIbf65Nx03JaSf2Iz-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="890" as="sourcePoint" />
+            <mxPoint x="570" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="840" />
+              <mxPoint x="730" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-46" target="I5HfIbf65Nx03JaSf2Iz-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-46" value="Dispensary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="890" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-47" value="1. State * -&amp;gt;&amp;nbsp; Select from dropDown(W)&lt;br&gt;2. District * -&amp;gt;&amp;nbsp; Select District from dropDown(W)&lt;br&gt;3. Dispensary Address * -&amp;gt; User Fill Address(W)&lt;br&gt;&lt;br&gt;Note: Submit Working Good(W)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1070" width="800" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-49" target="I5HfIbf65Nx03JaSf2Iz-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-49" value="Uniform Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-50" value="1.Department* -&amp;gt;&amp;nbsp; relationShip on&amp;nbsp; Department(W)&lt;br&gt;2. Role* -&amp;gt; relationShip on Role(NW)&lt;br&gt;3. Uniform Type* -&amp;gt; select from dataPicker(W)&lt;br&gt;4. Uniform Item* -&amp;gt; manually Type(W)&lt;br&gt;&lt;br&gt;Note: All data added (W)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1530" width="540" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-52" target="I5HfIbf65Nx03JaSf2Iz-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-52" value="Uniform Gents Shirt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-53" value="Note: All data added(W)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1530" width="450" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.037;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-49" target="I5HfIbf65Nx03JaSf2Iz-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="1420" as="sourcePoint" />
+            <mxPoint x="1000" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="1450" />
+              <mxPoint x="830" y="961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="960" as="sourcePoint" />
+            <mxPoint x="790" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-57" target="I5HfIbf65Nx03JaSf2Iz-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-57" value="Uniform Gents Pant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-58" value="Note: All data added(W)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1550" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-60" target="I5HfIbf65Nx03JaSf2Iz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-60" value="Uniform Ladies Shirt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="1410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-61" value="Note: All data added(W)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="1550" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5HfIbf65Nx03JaSf2Iz-63" target="I5HfIbf65Nx03JaSf2Iz-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-63" value="Uniform Ladies Pant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="1420" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HfIbf65Nx03JaSf2Iz-64" value="Note: All data added(W)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1550" width="280" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
